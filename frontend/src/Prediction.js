@@ -1,0 +1,6 @@
+const prediction = {
+  prediction:
+    "bassanior\nIs fairer than they were;\nWhich would by prity oftineness to Lancaster;\nAnd keep her to prepare thee virtues!\nUnderstable youth, tempt was my gall, untrusty for this light.\n\nKATHARINA:\nWhat is your will, sir, your mother!\n\nJULIET:\nBut I shall lay hold notwithstanding their freshnce\nAnd he may grint my cousin! O my brother's child!\nO princes and boldness of a million.\n\nBRUTUS:\nThe people gid with death.\n\nBENVOLIO:\nI pray thee, cousin, seize thee fortune of my love,\nAnd do content with the noble duke.\n\nGLOUCESTER:\nWell, your i'sefition, for they were an-hurther.\n\nKING EDWARD IV:\nWhat fouler one on's part be lusting in no more, come on,\nput up your country, as your gates, and threaten out\nMakes me mad; who, if she had been made a brother\nAnd to my will, the Duke of York let thee home.\n\nVALERIA:\nNo, good my lord, good morrow doublet your Corio.\n\nCAMILLO:\nSee, how they kiss me, Kate,\nTake this more worldly than a name? I am a gentleman?\n\nKING RICHARD II:\nThey shall be ready; your irum gir",
+};
+
+export default prediction.prediction;
