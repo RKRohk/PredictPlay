@@ -1,5 +1,6 @@
 /frontend/node_modules
 /servertest.rest
-/shakespeare.txt
+/frontend/build
 /venv
 /__pycache__
+node_modules

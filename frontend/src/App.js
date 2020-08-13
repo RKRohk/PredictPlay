@@ -15,7 +15,7 @@ function App() {
     setLoading(true);
     setSuccess(false);
     try{
-      const res = await axios.post(`http://0.0.0.0:5000/predict`, { "text": inputText });
+      const res = await axios.post(`/predict`, { "text": inputText });
       console.log(res.data);
       console.log(inputText);
       setPlay(res.data.prediction);
