@@ -1,0 +1,17 @@
+{
+    "name": "predictplay",
+    "description": "",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start":"npm install --prefix frontend && npm run build --prefix frontend",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/RKRohk/predictplay.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }

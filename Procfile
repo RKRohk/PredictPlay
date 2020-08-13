@@ -1,1 +1,1 @@
-web: npm install --prefix frontend && npm run build --prefix frontend && pip install -r requirements.txt && gunicorn server:app
+web: gunicorn server:app
