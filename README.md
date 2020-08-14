@@ -119,6 +119,7 @@ The web app will be available on the elastic ip associated to your ec2 instance 
 - [@RKRohk](https://github.com/Rkrohk) - Idea & Model Training
 - [@RonitNayak25](https://github.com/ronitnayak25) - Front End Development 
 - [@SahilKr24](https://github.com/SahilKr24) - Server Deployment on EC2
+- [@sukrit14](https://github.com/sukrit14) - Dataset Building
 
 See also the list of [contributors](https://github.com/Rkrohk/predictplay/contributors) who participated in this project.
 
