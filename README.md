@@ -17,7 +17,7 @@
 
 ---
 
-<p align="center"> An NPL Model that writes portion of a play in Shakespearean english.
+<p align="center"> An NLP Model that writes portion of a play in Shakespearean english.
     <br> 
 </p>
 
